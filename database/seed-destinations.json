@@ -1,0 +1,7 @@
+[
+  { "city": "Lisbon", "country": "Portugal", "region": "Europe", "costIndex": 2, "popularity": 98, "tags": ["coastal", "food", "culture"] },
+  { "city": "Kyoto", "country": "Japan", "region": "Asia", "costIndex": 3, "popularity": 96, "tags": ["temples", "food", "culture"] },
+  { "city": "Reykjavik", "country": "Iceland", "region": "Europe", "costIndex": 4, "popularity": 91, "tags": ["nature", "adventure", "northern lights"] },
+  { "city": "Marrakesh", "country": "Morocco", "region": "Africa", "costIndex": 1, "popularity": 88, "tags": ["markets", "food", "culture"] }
+]
+
