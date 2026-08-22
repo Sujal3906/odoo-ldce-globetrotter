@@ -25,7 +25,7 @@ Build a personalized travel planning application that allows users to:
 
 - Odoo
 - Python
-- PostgreSQL
+- SQL
 - HTML / CSS / JavaScript
 
 ## Status
