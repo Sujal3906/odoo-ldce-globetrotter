@@ -8,7 +8,7 @@ users create, organize, visualize, budget, and share multi-city trips.
 ## Team
 
 - Team Leader: Sujal Jethava
-- Team Members: [Add team members]
+- Team Members: Dweej Bhatt,Sharvil Bhatt
 
 ## Problem Statement
 
